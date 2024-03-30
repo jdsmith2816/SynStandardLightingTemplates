@@ -39,8 +39,8 @@ namespace SynStandardLightingTemplate
                 nlt.FogNear = 0;
                 nlt.FogFar = 0;
                 nlt.DirectionalFade = 0;
-                nlt.FogPower = 0;
-                nlt.FogMax = 0;
+                nlt.FogPower = 1;
+                nlt.FogMax = 1;
                 nlt.FogClipDistance = 0;
                 nlt.LightFadeEndDistance = 41000;
                 nlt.LightFadeStartDistance = 30000;
